@@ -1,1 +1,0 @@
-# juego-adivina-la-palabra
